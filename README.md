@@ -19,8 +19,8 @@ Investigate existing alternatives to AWS. Do any of them satisfy the above crite
 
 Mikey suggests:
 
-https://saltstack.com/
-https://www.terraform.io/ (perhaps with another provider than AWS)
-https://kubernetes.io/
-http://rancher.com/
-https://wiki.openstack.org/wiki/Heat 
+- [ ] https://saltstack.com/
+- [ ] https://www.terraform.io/ (perhaps with another provider than AWS)
+- [ ] https://kubernetes.io/
+- [ ] http://rancher.com/
+- [ ] https://wiki.openstack.org/wiki/Heat 
